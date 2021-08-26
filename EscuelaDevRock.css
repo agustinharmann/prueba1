@@ -1,0 +1,133 @@
+nav{
+    height: 70px;
+    background-color: #242424;
+    align-items: center;
+}
+body{
+    background-color: #323639;
+}
+.logo{
+width: 100px;
+margin-left: 20px;
+margin-top: 20px;
+}
+.login{
+    float:right;
+    height: 35px;
+    margin: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    border-radius: 20%;
+}
+.imgprimersection{
+    width: 990px;
+    height: 365px;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-left: 62px;
+}
+.primero{
+    margin-top: 10px;
+}
+.segundo{
+    width: 990px;
+    height: 120px;
+    margin-top: 20px;
+    background-color: rgb(40, 53, 147);
+    color: white;
+    border-radius: 15px;
+}
+#primercolmd{
+    width: 50px;
+}
+#segundocolmd{
+    width: 25%;
+    height: 80px;
+    margin-top: 15px;
+    margin: 20px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    border-left: 1px solid white;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+#tercercolmd{
+    width: 25%;
+    height: 80px;
+    margin-top: 15px;
+    margin: 20px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    border-left: 1px solid white;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+#cuartocolmd{
+
+    width: 25%;
+    height: 80px;
+    margin-top: 15px;
+    margin: 20px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    border-left: 1px solid white;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    /* margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+}
+.card{
+    height: 250px;
+    margin: 20px;
+}
+.hola{
+    margin: 10px;
+    background-color: red;
+}
+.container-de-card{
+    width: 990px;
+    /* max-width: 1200px; */
+    height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+.container-de-card .card{
+    width: 200px;
+    height: 330px;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin: 20px;
+    text-align: center;
+    transition: all 0.25s;
+}
+.espacio{
+    margin-top: 200px;
+}
+/* .losforms .row{
+    background-color: rgb(40, 53, 147);
+}
+.losforms .row .col-md-4 form{
+    color: white;
+     padding-left: 20px;
+    padding-right: 20px;
+    
+} */
+.quinto{
+    margin: 100px;
+}
